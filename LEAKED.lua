@@ -1,7 +1,7 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Dylannn69/dylan-ui/refs/heads/main/Library.lua"))()
 
 -- VENTANA PRINCIPAL
-local window = library:AddWindow("KOS CLAN || PAID", {
+local window = library:AddWindow("DYLAN", {
     main_color = Color3.fromRGB(80, 0, 130), -- dark purple
     min_size = Vector2.new(610, 830),
     can_resize = false,
